@@ -1,0 +1,5 @@
+{
+  "name": "LLM Inside: 3D Visualization",
+  "description": "An interactive 3D educational journey demonstrating how Large Language Models work, from tokenization to next-token prediction.",
+  "requestFramePermissions": []
+}
